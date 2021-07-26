@@ -2,9 +2,9 @@
 
 Supplemental Electronic Data files for:
 
-The durability of immunity against reinfection by SARS-CoV-2 
+The durability of immunity against reinfection by SARS-CoV-2: a comparative evolutionary study
 
-Jeffrey P. Townsend PhD 1,2,3,4*, Hayley B. Hassler BS 1, Zheng Wang PhD 1, Sayaka Miura PhD 5, Jaiveer Singh 6, Sudhir Kumar PhD 5, Nancy H. Ruddle PhD 7, Alison P. Galvani PhD 2,7,8, and Alex Dornburg PhD 9
+Jeffrey P. Townsend PhD 1,2,3,4*, Hayley B. Hassler MS 1, Zheng Wang PhD 1, Sayaka Miura PhD 5, Jaiveer Singh 6, Sudhir Kumar PhD 5, Nancy H. Ruddle PhD 7, Alison P. Galvani PhD 2,7,8, and Alex Dornburg PhD 9
 
 1 Department of Biostatistics, Yale School of Public Health, New Haven, Connecticut 06510, USA
 2 Department of Ecology and Evolutionary Biology, Yale University, New Haven, Connecticut 06525, USA
@@ -22,7 +22,7 @@ Jeffrey P. Townsend
 
 Electronic Data Files prepared by:
 Hayley B. Hassler
-hayley.hassler@gmail.com
+hayley.hassler@yale.edu
 
 
 ###
@@ -36,11 +36,11 @@ This directory contains fasta formated alignments used, newick formatted molecul
 
 ~/Ancestral_states/intercept_slope contains ancestral state R script used to produce intercept (alpha) and slope (beta) estimates and example data
 
-~/Assembly_ids/Assembly_ids.xlsx contains all sequence assembly data used, study IDs assigned to each genome sequence used to produce all phylogenies, and identifies taxa used to produce pruned phylogenies for ancestral state analyses
-
-~/Mathematica/ViralImmunityAnalysis-21JAN2021e.nb contains Mathematica notebook of calculations used to compute waning antibody profiles and baselines
+~/Mathematica/mathematica_SARS-CoV-2-immunity.zip contains all Mathematica notebooks of calculations used to compute waning antibody profiles and baselines
 
 ~/Molecular_trees/ contains all molecular phylogenies based on the concatenated alignment (RAxML, IQTREE) and based on the non-recombining block of SARS-CoV-2 alignment (RAxML_non_recombinant, IQTREE_non_recombinant)
+
+~/Supplemental_tables/Supplemental_tables.xlsx contains all supplemental tables referenced in text
 
 ~/Time_trees/ contains all time tree outputs based on the concatenated alignment (IQTREE_time_tree, RAxML_RelTime, RAxML_TreeTime, IQTREE_RelTime, IQTREE_TreeTime) and based on the non-recombining block of SARS-CoV-2 alignment (IQTREE_time_tree_non_recombinant, RAxML_RelTime_non_recombinant, RAxML_TreeTime_non_recombinant, IQTREE_RelTime_non_recombinant, IQTREE_TreeTime_non_recombinant)
 
