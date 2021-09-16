@@ -40,7 +40,7 @@ This directory contains fasta formated alignments used, newick formatted molecul
 
 ~/Molecular_trees/ contains all molecular phylogenies based on the concatenated alignment (RAxML, IQTREE) and based on the non-recombining block of SARS-CoV-2 alignment (RAxML_non_recombinant, IQTREE_non_recombinant)
 
-~/21tlmicrobe0069_Townsend appendix 1 RGM.xlsx contains all supplemental tables referenced in text
-
 ~/Time_trees/ contains all time tree outputs based on the concatenated alignment (IQTREE_time_tree, RAxML_RelTime, RAxML_TreeTime, IQTREE_RelTime, IQTREE_TreeTime) and based on the non-recombining block of SARS-CoV-2 alignment (IQTREE_time_tree_non_recombinant, RAxML_RelTime_non_recombinant, RAxML_TreeTime_non_recombinant, IQTREE_RelTime_non_recombinant, IQTREE_TreeTime_non_recombinant)
+
+~/21tlmicrobe0069_Townsend appendix 1 RGM.xlsx contains all supplemental tables referenced in text
 
